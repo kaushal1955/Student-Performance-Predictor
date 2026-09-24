@@ -1,8 +1,6 @@
-# Runtime dependencies for the Streamlit app (used by Streamlit Community Cloud)
-# NOTE: scikit-learn must match the version the .pkl files in models/ were saved with.
-streamlit==1.36.0
-pandas==2.2.2
-numpy==1.26.4
-scikit-learn==1.4.2
-plotly==5.22.0
-statsmodels==0.14.4
+streamlit
+pandas
+numpy
+scikit-learn
+plotly
+statsmodelsgit
